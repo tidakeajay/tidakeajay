@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello
 I am a Senior Software Engineer from India
 - 🔭 Working on multiple backend project using PHP, Python, AWS, Docker, Elasticsearch and Solr
 - 🌱 Learning design patterns in depth
